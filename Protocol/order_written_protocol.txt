@@ -1,0 +1,12 @@
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:29:53 PM"}
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:30:18 PM"}
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:30:43 PM"}
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:31:08 PM"}
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:31:25 PM"}
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:31:50 PM"}
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:32:15 PM"}
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:35:35 PM"}
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:36:15 PM"}
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:36:58 PM"}
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:37:02 PM"}
+{"type": "BUY", "timestamp": 1730646840000, "executed": false, "humanOrderTime": "11/3/2024, 4:14:00 PM", "humanReceptionTime": "11/3/2024, 6:37:42 PM"}

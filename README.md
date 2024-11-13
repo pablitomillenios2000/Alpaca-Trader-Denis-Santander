@@ -70,3 +70,7 @@ It is available from here and needs to be in the main folder
 you need to run 
 
 gunzip SOLBUSD.csv.gz
+
+see also:
+https://www.cryptoarchive.com.au/bars/SUIUSDT
+https://www.cryptoarchive.com.au/bars/BTCBUSD

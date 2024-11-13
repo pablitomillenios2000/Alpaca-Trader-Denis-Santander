@@ -1,20 +1,25 @@
 // script.js
 
+//var read_filename = 'SUIUSDT.csv'   //SUI Coin in USD-Tether
+var read_filename = 'BTCBUSD.csv'     //Bitcoin in Binance USD
+//var read_filename = 'SOLBUSD.csv'   //SOL Coin in Binance USD
+//var read_filename = './ALPACA/retrieve/mstu_data_formatted.csv'  //MSTU for Microstrategy
+
 // Variables for start and end dates (YYYY-MM-DD format)
-var startDate = '2020-12-10';
-var endDate = '2021-01-10';
+var startDate = '1980-05-19';
+var endDate = '2030-07-23';
 
 // Variable for trailing stop-loss percentage (e.g., 1.5 for 1.5%)
 var trailingSLValue = 1.5 / 100; // Convert to decimal immediately
 
 // Variable for initial portfolio value (initial margin)
-var initialPortfolioValue = 466000;
+var initialPortfolioValue = 500000;
 
 // Variable for trading direction: 1 for short, 2 for long
 var tradingDirection = 2; // Change to 1 for short, 2 for long
 
 // Variable for leverage
-var leverage = 2; // Adjust leverage as needed
+var leverage = 1; // Adjust leverage as needed
 //3x best for sol
 
 // Variable for SpreadCost (added by me)
@@ -52,8 +57,8 @@ plotDiv.style.background = 'linear-gradient(to bottom, gray, black)';
 
 // Parse the CSV file and plot the graph
 
-//Papa.parse('./CCTX/csv/solana_10min_data.csv', {
-Papa.parse('SOLBUSD.csv', {
+//Papa.parse("./ALPACA/retrieve/mstu_data_formatted.csv", {
+Papa.parse(read_filename, {
     download: true,
     delimiter: '|',
     complete: function (results) {
@@ -562,7 +567,7 @@ Papa.parse('SOLBUSD.csv', {
         };
 
         var layout = {
-            title: `SOL/BUSD Closing Prices and Portfolio Value (${startDate} to ${endDate})`,
+            title: `${read_filename} and Portfolio Value (${startDate} to ${endDate})`,
             xaxis: {
                 title: 'Time',
                 type: 'date',

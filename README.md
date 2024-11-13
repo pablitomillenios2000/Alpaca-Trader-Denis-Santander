@@ -72,5 +72,9 @@ you need to run
 gunzip SOLBUSD.csv.gz
 
 see also:
+
 https://www.cryptoarchive.com.au/bars/SUIUSDT
+
 https://www.cryptoarchive.com.au/bars/BTCBUSD
+
+https://www.cryptoarchive.com.au/bars/SOLBUSD
